@@ -103,7 +103,7 @@ By the end of this project, the following goals will be achieved:
 
 ## Author
 **[Your Name]**  
-Data Engineering Trainee|(https://github.com/ebenzer-quayson)
+Data Engineering Trainee| [My Contact Info or GitHub Profile](https://github.com/ebenezer-quayson)
 
 ---
 
